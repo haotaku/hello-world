@@ -14,7 +14,7 @@ def greet_user(name):
     """
     Function to greet the user
     """
-    print(f"\nHello, {name}! Welcome to the world of Python and GitHub.\n")
+    print(f"\nHello, {name}! Welcome to the world of Python and GitHub. How are you?\n")
 
 def hello_world():
     """
