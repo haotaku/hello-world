@@ -1,6 +1,6 @@
 # hello-world
 
-Welcome to the Hello-World repository! This is a practice space for learning and understanding key features of GitHub, with a particular focus on Python programming.
+Welcome to the Hello-World repository! This is a practice space for learning key features of GitHub, with a particular focus on Python programming.
 
 ## About Haotaku
 
