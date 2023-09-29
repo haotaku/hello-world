@@ -1,23 +1,19 @@
 # hello-world
 
-Welcome to the Hello-World repository! This is a practice space for learning key features of GitHub, with a particular focus on Python programming.
+Welcome to my Hello-World repo! This is where I'm learning the ropes of GitHub and doing some Python practice.
 
-## About Haotaku
+## About Me
 
-Hello! I'm a student passionate about technology and design, currently journeying through the GitHub tutorial to strengthen my understanding of its powerful features.
+Hey there! I'm a student who loves tech and design. I'm working through this GitHub tutorial to get better at it.
 
-My background as a UX designer, complemented by a strong foundation in mathematics and data analytics, has given me a unique perspective on crafting human-centered product designs. My driving force is the creation of accessible, equitable, and data-driven design systems that can be utilized across various industries.
+I've got a background in UX design and I'm good with numbers, too. I love making designs that everyone can use. As I learn GitHub, I'm excited to work on projects that make life easier and more fun for people.
 
-Equity, inclusivity, and accessibility principles are at the heart of my work. My aim is to align with the needs and goals of users, delivering a seamless and enjoyable experience for all. As I navigate through this GitHub tutorial, I strive to learn more about contributing to cutting-edge, user-focused solutions in a technically efficient and collaborative manner. My journey through this GitHub tutorial will not only strengthen my understanding of its powerful features but also pave the way for me to contribute to and communicate with developers.
+## Why this repo?
 
-## Repository Purpose
+This is my playground for learning GitHub. As I go through the GitHub tutorial, this is where you'll see what I'm learning and working on. So, expect some updates!
 
-This repository is designed as a space for learning. As I delve deeper into the GitHub getting started tutorial, this repository will serve as the workspace where I practice and demonstrate my understanding of these skills.
+Thanks for checking this out!
 
-Stay tuned for updates, as this space will evolve in tandem with my understanding and skills.
-
-Thank you for stopping by!
-
-## Connect With Me
+## Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khaotruong/).
